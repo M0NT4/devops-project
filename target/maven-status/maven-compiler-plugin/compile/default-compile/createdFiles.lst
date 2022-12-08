@@ -1,0 +1,9 @@
+com/example/devopsproject/models/Teacher.class
+com/example/devopsproject/models/Student.class
+com/example/devopsproject/services/TeacherService.class
+com/example/devopsproject/controllers/StudentController.class
+com/example/devopsproject/DevopsProjectApplication.class
+com/example/devopsproject/repositories/StudentRepository.class
+com/example/devopsproject/repositories/TeacherRepository.class
+com/example/devopsproject/controllers/TeacherController.class
+com/example/devopsproject/services/StudentService.class

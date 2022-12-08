@@ -1,0 +1,9 @@
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/controllers/StudentController.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/services/TeacherService.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/models/Student.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/DevopsProjectApplication.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/services/StudentService.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/repositories/TeacherRepository.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/models/Teacher.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/repositories/StudentRepository.java
+/home/kali/DevOpsProject/src/main/java/com/example/devopsproject/controllers/TeacherController.java
