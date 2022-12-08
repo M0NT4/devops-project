@@ -7,5 +7,11 @@ pipeline {
                 git "https://github.com/M0NT4/devops-project.git"; 
             } 
          }
+         stage ('MVN CLEAN') {
+            steps {
+                echo "Maven Clean";
+                sh 'mvn clean';
+            } 
+        }
     }
 }
