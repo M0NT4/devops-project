@@ -1,7 +1,0 @@
-com/example/devopsproject/DatabaseTestConfiguration.class
-com/example/devopsproject/DevopsProjectApplicationTests.class
-com/example/devopsproject/services/StudentServiceTest.class
-com/example/devopsproject/repositories/TeacherRepositoryTest.class
-com/example/devopsproject/controllers/StudentControllerTest.class
-com/example/devopsproject/services/TeacherRepositoryTest.class
-com/example/devopsproject/repositories/StudentRepositoryTest.class

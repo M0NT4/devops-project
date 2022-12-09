@@ -2,6 +2,9 @@ def gv
 
 pipeline {
     agent any
+    tools {
+        maven 'maven'
+    }
     stages {
         stage("initialize") {
             steps {
@@ -31,5 +34,12 @@ pipeline {
                 }
             }
         }  
+        stage("Nexus Deployment") {
+            steps {
+                script { 
+                    gv.nexus_deploy()
+                }
+            }
+        }    
     }
 }
