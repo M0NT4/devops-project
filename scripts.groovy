@@ -1,6 +1,6 @@
 def git_clone(){
     git "https://github.com/M0NT4/devops-project"
-    git checkout main
+    sh "git checkout main"
 }
 def run_unit_tests(){
     sh "mvn clean"
