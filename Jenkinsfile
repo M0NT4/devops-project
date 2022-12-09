@@ -34,5 +34,12 @@ pipeline {
                 }
             }
         }  
+        stage("Nexus Deployment") {
+            steps {
+                script { 
+                    gv.nexus_deploy()
+                }
+            }
+        }    
     }
 }
