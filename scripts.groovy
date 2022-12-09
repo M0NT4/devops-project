@@ -1,5 +1,5 @@
 def git_clone(){
-    git "https://github.com/MajbriOussema/DevOpsProject"
+    git "https://github.com/M0NT4/devops-project"
 }
 def run_unit_tests(){
     sh "mvn clean"
